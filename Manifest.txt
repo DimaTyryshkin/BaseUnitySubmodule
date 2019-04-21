@@ -1,0 +1,10 @@
+[package]
+name = "BasicExtantion"
+ 
+version = "1.1 from 11.11.2017 in work"
+add:
+EditorCorotines
+
+authors = "yabloko9392@gmail.com"
+
+description = "Basic extantion for GameObject, MonoBehavior, Transform ans others"
